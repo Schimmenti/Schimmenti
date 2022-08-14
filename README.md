@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincenzo Maria Schimmenti
+Vincenzo Maria Schimmenti
 =================================================================================================================================================
 
 PhD student in Physics and ML
 -----------------------------
 
-* 🌍  I'm based in Paris
-* ✉️  You can contact me at [vinci95s@gmail.com](mailto:vinci95s@gmail.com)
+* Université Paris-Saclay/CNRS Orsay, FR
+* LPTMS/LISN
+* ✉️  Contact me at [vinci95s@gmail.com](mailto:vinci95s@gmail.com)
 
 ### Skills
 
@@ -17,3 +18,9 @@ PhD student in Physics and ML
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Schimmenti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vincenzo-maria-schimmenti-840934a9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Papers
+
+<p align="left">
+<a href="https://doi.org/10.1103/PhysRevE.104.064129">Statistical properties of avalanches via the c-record process (PhysRevE.104.064129) </a>
+</p>

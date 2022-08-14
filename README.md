@@ -22,5 +22,5 @@ PhD student in Physics and ML
 ### Papers
 
 <p align="left">
-<a href="https://doi.org/10.1103/PhysRevE.104.064129">Statistical properties of avalanches via the c-record process (PhysRevE.104.064129) </a>
+<a href="https://doi.org/10.1103/PhysRevE.104.064129">Statistical properties of avalanches via the c-record process (2021) </a>
 </p>
